@@ -1,0 +1,701 @@
+Department,Failure Rate,Number of Users,Campaign Count,Campaign Failures,Drive By Campaign Failure Rate,Data Entry Campaign Failure Rate,Attachment Campaign Failure Rate
+USNG GPMC West Facil,50.00%,1,8,4,40.00%,100.00%,0.00%
+Liq SE Petroleum,33.30%,1,3,1,50.00%,0.00%,0.00%
+ELIR IR US ENTERPRIS,28.60%,1,7,2,25.00%,0.00%,100.00%
+BU Communications,25.00%,1,8,2,20.00%,0.00%,100.00%
+US Insurance Risk,25.00%,2,9,4,10.00%,25.00%,100.00%
+USNG MXP & GXP,24.20%,4,10,8,9.50%,37.50%,75.00%
+IT NTW & TELECOM CA,22.20%,1,9,2,16.70%,0.00%,100.00%
+Maint &Outage Planng,20.00%,2,3,1,33.30%,0.00%,0.00%
+EITS APP & REPORT US,17.40%,3,8,4,14.30%,16.70%,33.30%
+IT Ntwk Proj Del US,16.70%,2,3,1,25.00%,0.00%,0.00%
+SCADA IT Services US,16.70%,1,6,1,0.00%,0.00%,100.00%
+GLR GLGT Rgn Mgmt Pe,16.00%,3,10,4,6.30%,33.30%,33.30%
+Liq APEM,15.40%,2,8,2,11.10%,0.00%,50.00%
+Safety Emerge MgmtCA,15.20%,8,10,10,11.90%,12.50%,37.50%
+Legal Services MX,15.00%,6,10,6,8.00%,10.00%,60.00%
+Project Governanc US,14.80%,3,9,4,16.70%,0.00%,33.30%
+CA Gas Commercial,14.30%,1,7,1,0.00%,50.00%,0.00%
+Carseland,14.30%,1,7,1,0.00%,0.00%,100.00%
+Energy JV - US,14.30%,1,7,1,25.00%,0.00%,0.00%
+Liquids Operations,14.30%,1,7,1,25.00%,0.00%,0.00%
+NETFLEX GRWTH PRJ US,14.30%,1,7,1,0.00%,0.00%,100.00%
+Pennant Trunkline,14.30%,1,7,1,0.00%,0.00%,100.00%
+SCCO Energy CA,14.30%,1,7,1,0.00%,0.00%,100.00%
+US Projects 1.2,14.30%,1,7,1,0.00%,50.00%,0.00%
+USNG Rayne&WB Xpress,14.30%,4,9,4,11.10%,0.00%,50.00%
+Pipeline Integrit MX,14.00%,11,10,12,7.50%,13.60%,45.50%
+SCUO MX AP,13.90%,27,10,27,9.80%,13.00%,34.60%
+USLFO Enviro Srv Ppl,13.60%,4,8,3,14.30%,0.00%,25.00%
+Legal Operations US,13.00%,3,8,3,7.10%,16.70%,33.30%
+MGO MX  HS Emer Mgmt,13.00%,6,10,6,10.70%,16.70%,16.70%
+SCE Vendor Audit,13.00%,3,9,3,14.30%,16.70%,0.00%
+SCP Projects,12.90%,8,10,8,7.50%,14.30%,37.50%
+CNS Microwave - TCO,12.80%,5,10,5,8.00%,33.30%,0.00%
+Energy Exec East,12.50%,1,8,1,0.00%,50.00%,0.00%
+Internal Grp Finance,12.50%,3,10,3,13.30%,0.00%,33.30%
+Liquids BD US,12.50%,2,9,2,10.00%,0.00%,50.00%
+MX Regulatory,12.50%,3,10,3,13.30%,0.00%,33.30%
+US Projects 2.2,12.50%,1,8,1,0.00%,50.00%,0.00%
+Welding Mat NDE&C-US,12.50%,1,8,1,0.00%,0.00%,100.00%
+Aviation Patrol,12.10%,5,8,4,5.00%,12.50%,40.00%
+MGO Asset Rel & Perf,12.10%,13,10,12,6.50%,4.20%,53.80%
+Training & Dev US,12.10%,4,10,4,9.50%,25.00%,0.00%
+Calgary US Taxation,12.00%,3,9,3,12.50%,0.00%,33.30%
+USSM Commercial Op,12.00%,4,8,3,0.00%,16.70%,50.00%
+Fac Serv Houston,11.90%,12,10,10,9.40%,10.00%,27.30%
+Corporate Compliance,11.80%,7,10,6,9.40%,8.30%,28.60%
+USNG Environ Admin,11.60%,5,10,5,3.60%,10.00%,60.00%
+CA Imp Gas Facilitie,11.50%,3,10,3,5.90%,16.70%,33.30%
+Project Services CA,11.40%,5,7,4,0.00%,10.00%,60.00%
+SCP US PLNG &PROC,11.30%,8,10,7,7.90%,6.30%,37.50%
+Communication CA Gas,11.10%,3,9,3,0.00%,33.30%,33.30%
+ELIR CGL,11.10%,7,8,5,11.50%,16.70%,0.00%
+USNGOps Wst Exec Mgt,11.10%,1,9,1,0.00%,0.00%,100.00%
+Acctg Serv MX,10.90%,14,10,11,7.90%,4.20%,35.70%
+USNG Grad Rotat Prog,10.70%,4,8,3,0.00%,14.30%,50.00%
+IT NTW &TELCOM PJ CA,10.70%,11,10,8,4.30%,16.70%,27.30%
+HR Consult CdnGas,10.50%,6,8,4,8.30%,12.50%,16.70%
+ITOI IT Proj Del,10.50%,5,10,4,4.30%,10.00%,40.00%
+ELIR KXL,10.30%,5,10,3,5.60%,16.70%,20.00%
+USNG Env Comm,10.30%,21,10,15,8.60%,6.50%,23.80%
+CGO Eng Support,10.30%,24,10,16,5.20%,8.10%,36.40%
+BWR Rgn Mgmt -People,10.30%,5,10,4,8.30%,0.00%,40.00%
+SCP Reg Pipes Fac,10.20%,22,10,14,3.40%,13.80%,35.00%
+Construction Serv MX,10.20%,6,10,5,9.70%,8.30%,16.70%
+SCCM Construct Serv,10.00%,7,9,5,6.50%,0.00%,42.90%
+USNG Bus Dev Central,10.00%,4,9,3,5.60%,12.50%,25.00%
+USNG Proj Services,10.00%,4,9,3,5.60%,12.50%,25.00%
+MGO North Region,9.90%,13,10,9,5.40%,4.50%,38.50%
+Tax Services MX,9.80%,10,9,6,5.10%,8.30%,30.00%
+BUIT PROJ DEL CA,9.50%,4,9,2,15.40%,0.00%,0.00%
+MX Document Control,9.50%,13,10,10,7.60%,3.80%,30.80%
+SEOA5: Bus Ops,9.50%,25,10,19,6.30%,2.10%,40.00%
+BUIT AMS USNG WEST,9.10%,2,9,1,0.00%,0.00%,50.00%
+Energy-Fncl Services,9.10%,4,10,3,9.50%,0.00%,25.00%
+NE Regional Mgmt Ops,9.10%,17,10,12,8.20%,6.70%,17.60%
+SC US Strateg Source,9.10%,3,8,2,0.00%,33.30%,0.00%
+SCP Coastal GasLink,9.10%,13,10,7,8.30%,6.30%,15.40%
+SCS AP US,9.10%,17,10,10,4.50%,0.00%,43.80%
+USNG Growth Projects,9.10%,2,7,1,0.00%,0.00%,50.00%
+USTS Drafting Svcs,9.10%,41,10,25,6.40%,1.60%,31.70%
+Central Reg Mgmt Ops,9.00%,17,10,12,4.90%,5.90%,35.30%
+MGO Central Region,8.90%,16,10,10,8.60%,3.70%,20.00%
+IC Integrity Program,8.90%,6,8,4,0.00%,16.70%,33.30%
+MGO MX Env Land Comm,8.90%,12,9,8,3.70%,0.00%,50.00%
+Fac Serv Charleston,8.80%,21,10,13,7.70%,2.90%,23.80%
+PI Damage Prevention,8.80%,10,10,6,11.90%,6.30%,0.00%
+Rec&Delivery FCST,8.80%,9,10,6,4.80%,11.10%,25.00%
+IR - CA Liquids,8.80%,9,10,5,2.80%,15.40%,25.00%
+BL Area-ANRP,8.80%,30,10,19,6.10%,5.50%,26.70%
+MA Mooreland Area,8.70%,26,10,17,6.70%,4.00%,26.90%
+Prj Service Ctrls CA,8.60%,11,10,7,7.80%,0.00%,30.00%
+SEOA7: Bus Ops,8.60%,35,10,23,5.90%,3.10%,31.40%
+CGL Proj Implement,8.60%,5,10,3,13.60%,0.00%,0.00%
+SEOA3: Bus Ops,8.60%,33,10,19,7.10%,4.00%,21.90%
+ELIR ENV GAS PROJECT,8.40%,37,10,22,6.60%,3.30%,24.30%
+CA Pipe Reg Research,8.30%,3,10,2,6.70%,16.70%,0.00%
+CLFO Reg MGT Ppl,8.30%,4,8,2,0.00%,16.70%,25.00%
+E&L Land Serv- East,8.30%,27,10,16,5.80%,11.40%,14.80%
+Security & HSSEM,8.30%,3,8,2,0.00%,16.70%,33.30%
+US Midstrm Ops,8.30%,12,10,8,9.80%,4.30%,8.30%
+USNG GPMC East,8.30%,4,7,2,14.30%,0.00%,0.00%
+Weld&Material Eng US,8.30%,3,8,2,6.70%,0.00%,33.30%
+Liq SE Mechanical,8.10%,6,10,3,0.00%,12.50%,33.30%
+USNG SVP Executive,8.10%,7,10,3,8.30%,0.00%,14.30%
+KXL Facilities US,8.10%,96,10,40,4.80%,7.50%,20.20%
+SE Regional Mmgt Ops,8.10%,19,10,12,4.30%,5.60%,31.60%
+USNG GMPC East,8.00%,3,9,2,6.30%,16.70%,0.00%
+Land Law,7.90%,7,10,3,4.00%,0.00%,33.30%
+Land-CA Liquids-Proj,7.90%,10,10,6,8.00%,6.30%,10.00%
+Liq. SE FieldProj US,7.90%,5,9,3,13.00%,0.00%,0.00%
+Reed City-ANRP,7.90%,32,10,19,6.50%,1.70%,26.70%
+Dakota Area (People),7.80%,23,10,13,3.90%,7.10%,27.30%
+Gas Proj Project MX,7.80%,270,10,159,5.30%,3.40%,27.50%
+CLFO Nistowaya Ppl,7.70%,23,10,13,5.50%,8.30%,17.40%
+USNG Plan&Cost Acctg,7.70%,26,10,16,8.30%,2.00%,15.40%
+CGO CP Proj and Eng,7.70%,30,10,16,4.00%,5.60%,27.60%
+HR Rgn Mgmt Ops,7.70%,4,10,2,6.30%,0.00%,25.00%
+HR Talent Acq CA,7.70%,10,10,5,7.30%,0.00%,20.00%
+SC Advanced Analytic,7.70%,10,10,6,6.30%,5.00%,20.00%
+US Tech Serv Mgmt,7.60%,18,10,10,4.80%,9.70%,16.70%
+Corporate Treasury,7.40%,11,10,7,3.30%,4.50%,36.40%
+E&L ES Air Permitt,7.40%,15,10,9,5.30%,3.30%,26.70%
+Credit&Contract West,7.40%,7,10,4,3.00%,7.10%,28.60%
+ELIR Mgmt Services,7.40%,4,8,2,5.90%,0.00%,25.00%
+MGO East Region,7.40%,14,10,8,1.50%,0.00%,50.00%
+SCP US Contract Mgmt,7.30%,16,10,8,6.00%,3.80%,18.80%
+CR&State Ext Aff US,7.30%,7,8,3,8.00%,0.00%,16.70%
+MM Head Office,7.20%,9,10,5,6.80%,12.50%,0.00%
+Calgary CDN Taxation,7.20%,11,10,6,7.70%,0.00%,18.20%
+Houston Inc Tax Gas,7.20%,22,10,11,3.20%,2.80%,31.80%
+USNG XP Proj Clse US,7.20%,44,10,23,4.50%,13.20%,9.10%
+COA4: Bus Ops,7.20%,33,10,18,7.10%,3.10%,15.20%
+CGO Program Mgmt,7.10%,9,10,4,5.70%,0.00%,22.20%
+Safety Excellence,7.10%,3,7,1,11.10%,0.00%,0.00%
+SEOA2: Bus Ops,7.10%,33,10,16,5.60%,8.20%,12.10%
+PI Data Engineering,7.10%,13,10,6,5.70%,10.00%,8.30%
+USSM Optimization,7.00%,5,10,3,7.10%,0.00%,20.00%
+NEOA5: Bus Ops,6.90%,27,10,15,4.30%,7.70%,18.50%
+Lit & Empl Law US,6.90%,4,8,2,0.00%,0.00%,50.00%
+SC Liquids Ops,6.90%,4,8,2,0.00%,14.30%,25.00%
+Gas Proj  Op Plan CA,6.90%,17,10,9,9.90%,0.00%,6.30%
+COA6: Bus Ops,6.80%,28,10,15,2.20%,5.70%,32.10%
+EOA4: Bus Ops,6.80%,23,10,12,2.70%,2.40%,34.80%
+NSIT FIELD&NTWK CA,6.80%,6,8,3,7.70%,0.00%,16.70%
+CGORMR Battle River,6.80%,22,10,11,4.90%,2.60%,22.70%
+North Lakes-GLGT Peo,6.70%,22,10,11,5.80%,5.30%,13.60%
+Expat - Other,6.70%,2,8,1,0.00%,25.00%,0.00%
+HR Payroll and Ops,6.70%,9,10,5,6.00%,6.30%,11.10%
+HR Shared Serv US,6.70%,4,9,2,0.00%,25.00%,0.00%
+MX Commercial Serv,6.70%,4,8,2,0.00%,12.50%,25.00%
+SCE Management,6.70%,2,8,1,0.00%,0.00%,50.00%
+US Midstrm Mgmt,6.70%,4,10,2,10.00%,0.00%,0.00%
+Land & Permit Law MX,6.60%,32,10,16,5.90%,1.80%,18.80%
+USNG Enviro P&P–East,6.60%,12,10,6,1.80%,16.70%,8.30%
+Reg Compliance US,6.60%,20,10,10,6.30%,2.70%,15.00%
+Mexico Exec Admin,6.60%,10,9,4,4.80%,0.00%,20.00%
+CA Commodity Tax,6.50%,6,10,3,3.40%,9.10%,16.70%
+HR Employe Center CA,6.50%,15,10,6,3.60%,9.10%,14.30%
+ELIR ENV P&P,6.50%,10,10,5,2.10%,15.00%,10.00%
+Enviro Services West,6.50%,10,9,5,2.10%,0.00%,40.00%
+SEOA6: Bus Ops,6.40%,29,10,15,4.80%,1.70%,24.10%
+CLFO Parkland Ppl,6.40%,34,10,15,5.50%,3.60%,15.60%
+USNG Land Serv West,6.40%,20,10,10,5.00%,0.00%,25.00%
+Lafayette-Onshore,6.30%,26,10,13,3.90%,0.00%,30.80%
+BUIT MX IT SERVICES,6.30%,10,10,5,6.00%,0.00%,20.00%
+USNG GPMC East Mod,6.30%,73,10,34,3.30%,6.10%,21.10%
+BWR-South People,6.30%,26,10,13,3.80%,7.70%,15.40%
+CA Pipes Credits,6.30%,8,10,4,5.00%,0.00%,25.00%
+CPO Op Service Mgmt,6.30%,4,10,2,0.00%,0.00%,50.00%
+Energy & Liquids Law,6.30%,2,9,1,10.00%,0.00%,0.00%
+Executive Admin - US,6.30%,2,8,1,0.00%,25.00%,0.00%
+Fncl Acctg&projs,6.30%,2,9,1,10.00%,0.00%,0.00%
+MM WarehouseUS AR&SA,6.30%,7,10,3,6.50%,0.00%,14.30%
+Proc Saf & Eng Gov,6.30%,8,10,4,7.10%,0.00%,12.50%
+Risk & Eng- Dir,6.30%,2,8,1,0.00%,25.00%,0.00%
+Risk Management,6.30%,2,9,1,0.00%,0.00%,50.00%
+US Rewards & HR Serv,6.30%,6,8,2,0.00%,0.00%,40.00%
+HR BU Consulting US,6.20%,15,10,7,7.10%,7.10%,0.00%
+Document Management,6.20%,34,10,16,6.70%,3.20%,8.80%
+CGO AirdrieEquip,6.20%,8,10,4,7.30%,0.00%,12.50%
+E&L LS Record Mgmt,6.10%,16,10,7,1.40%,11.50%,18.80%
+ELIR Land CA Gas Pip,6.10%,24,10,11,6.30%,2.20%,12.50%
+CGO Program Planning,6.10%,29,10,12,5.10%,6.00%,10.30%
+USNG Growth & Devel,6.00%,59,10,28,4.10%,7.10%,13.60%
+IS END USER COMP CA,6.00%,10,10,5,5.70%,0.00%,20.00%
+Comm Serv & Des Mgmt,6.00%,6,10,3,6.30%,0.00%,16.70%
+EITS PI&GIS SERV CA,6.00%,23,10,9,3.20%,8.80%,14.30%
+USNG Marketing West,6.00%,7,8,3,0.00%,7.70%,28.60%
+Gas Proj Saddle West,6.00%,15,10,7,0.00%,3.30%,40.00%
+Land-CA Gas BU-Proj,6.00%,18,10,8,6.00%,0.00%,16.70%
+USTS CoreReliability,6.00%,17,10,8,5.70%,3.30%,11.80%
+EIT SAP DELIVERY,5.90%,7,10,3,0.00%,8.30%,28.60%
+Health Safety & Env,5.90%,11,8,4,4.80%,0.00%,20.00%
+IS BU IT Services,5.90%,2,10,1,9.10%,0.00%,0.00%
+MM Warehouse US WM,5.90%,2,10,1,0.00%,0.00%,50.00%
+Ops Engineering MX,5.90%,12,10,5,3.90%,9.10%,8.30%
+SC Category Mgmt,5.90%,2,10,1,0.00%,0.00%,50.00%
+SEOA4: Bus Ops,5.90%,36,10,16,4.10%,3.00%,19.40%
+CGL Project Services,5.80%,54,10,22,4.20%,1.10%,20.80%
+CGO Welding & HotTap,5.70%,11,10,5,3.70%,9.10%,9.10%
+USNG GPMC West,5.70%,92,10,39,2.70%,5.70%,19.80%
+Field Op-TCEMS Mex,5.70%,5,10,2,0.00%,0.00%,40.00%
+ELIR IR CA GAS PIPE,5.70%,31,10,12,6.90%,0.00%,9.70%
+USNG Comm Prj&Interc,5.70%,6,10,3,0.00%,16.70%,16.70%
+NETFLEX GRWTH PRJ CA,5.60%,24,10,8,6.90%,3.10%,4.30%
+CGO Wildrose Pipe,5.60%,21,10,9,7.10%,2.40%,4.80%
+SC Ops Contracts US,5.60%,13,10,5,3.70%,4.50%,15.40%
+Badger Area-ANRP,5.60%,30,10,13,3.40%,0.00%,26.70%
+BUIT ENERGY CA,5.60%,2,9,1,0.00%,0.00%,50.00%
+HR Consulting Corp,5.60%,11,10,4,2.20%,6.30%,18.20%
+Liq Volumetric Acctg,5.60%,7,9,3,5.90%,0.00%,14.30%
+Liquids Control Cent,5.60%,4,5,1,0.00%,0.00%,25.00%
+USNG Buckeye Xpress,5.60%,11,10,4,2.30%,5.00%,22.20%
+USSM Strge RE&G,5.60%,17,10,7,3.80%,6.70%,11.80%
+Govermnt Relation CA,5.50%,25,10,10,5.30%,4.50%,8.30%
+PI Q & S Managment,5.50%,10,10,4,2.20%,0.00%,30.00%
+NSIT CORE NET SRV US,5.50%,7,10,3,2.80%,8.30%,14.30%
+SaginawValley-ANRP,5.50%,14,10,6,2.90%,0.00%,28.60%
+SCP US Capital Proj,5.50%,8,10,3,5.90%,0.00%,14.30%
+USNG Marketing East,5.50%,7,10,3,2.90%,7.10%,14.30%
+COA5: C Ops 5 BusOps,5.40%,26,10,11,3.20%,5.80%,15.40%
+USNG Comm Services,5.40%,12,10,5,1.80%,0.00%,33.30%
+USNG Gas Contrl East,5.40%,62,10,26,3.30%,2.60%,21.00%
+Energy Dev Proj Eng,5.40%,9,10,4,6.40%,0.00%,11.10%
+HR People Management,5.40%,5,8,2,4.50%,0.00%,20.00%
+USNG Nominat&Schedul,5.40%,50,10,20,3.50%,2.10%,20.40%
+Gas Proj Engineering,5.30%,84,10,35,5.10%,1.20%,14.60%
+USNG Safety & Qual,5.30%,236,10,76,3.50%,5.50%,11.70%
+Measurement Develpmt,5.30%,6,10,2,4.20%,12.50%,0.00%
+NMML Pipe,5.30%,8,8,3,0.00%,7.10%,25.00%
+Safety Health & Ind,5.30%,12,10,4,8.20%,0.00%,0.00%
+USNG Accounting West,5.30%,7,10,3,2.80%,7.10%,14.30%
+CA Gas Proj Const,5.30%,70,10,22,2.30%,4.80%,17.10%
+NEOA4: Bus Ops,5.20%,25,10,10,4.30%,2.00%,16.00%
+USNG Reg & Comm Law,5.20%,14,10,5,6.70%,0.00%,7.10%
+SCS Purchasing CA,5.20%,21,10,7,2.40%,6.70%,14.30%
+Cust Solut&Spec Proj,5.20%,8,10,3,5.70%,0.00%,14.30%
+CGO - Eastern Region,5.10%,5,9,2,0.00%,10.00%,20.00%
+Liquids Scheduling,5.10%,5,10,2,4.20%,0.00%,20.00%
+Stakeholdr & SCM Law,5.10%,5,10,2,4.20%,10.00%,0.00%
+USLFO RR Ppl,5.10%,22,10,8,3.10%,2.60%,18.20%
+Canada Gas Control,5.10%,34,10,13,3.20%,0.00%,24.20%
+MPL: Business Ops,5.10%,15,10,6,4.00%,3.60%,13.30%
+BWR-North People,5.10%,28,10,11,2.90%,0.00%,25.00%
+USSM Strge WE&T,5.10%,25,10,9,4.50%,7.10%,4.00%
+CAEO Eastern Eng,5.00%,10,10,4,6.00%,0.00%,10.00%
+CGO - Central Region,5.00%,6,8,2,0.00%,10.00%,16.70%
+Coolidge Operations,5.00%,13,10,5,6.50%,0.00%,7.70%
+DTO CLOUD OPS INF US,5.00%,5,10,2,0.00%,0.00%,40.00%
+MM Warehouse CA SG,5.00%,8,8,2,0.00%,0.00%,33.30%
+US Natural Gas Proj,5.00%,3,7,1,8.30%,0.00%,0.00%
+Weld&Material Eng CA,5.00%,11,10,4,4.00%,5.00%,10.00%
+Energy Napanee,5.00%,55,10,20,4.00%,1.00%,16.70%
+USNG Con Serv East,4.90%,36,10,13,3.70%,4.50%,11.40%
+CGO PI PM NW AB,4.90%,11,10,4,2.10%,0.00%,27.30%
+Mid-States People,4.90%,21,10,8,2.00%,2.40%,23.80%
+Fac Int & Reliab Eng,4.90%,16,10,6,5.10%,0.00%,12.50%
+PI Proj Mgmt S AB&BC,4.90%,9,10,3,5.10%,7.70%,0.00%
+COA2: Bus Ops,4.90%,32,10,12,3.30%,4.90%,12.50%
+USTS Measure Serv,4.90%,42,10,16,3.00%,1.20%,21.40%
+USTS Compress East,4.90%,30,10,11,3.50%,5.60%,10.00%
+Calumet Area-ANRP,4.90%,32,10,12,3.30%,1.60%,19.40%
+Project Controls,4.90%,23,10,8,1.00%,7.10%,17.40%
+Quality Assurance,4.80%,30,10,11,3.50%,7.10%,6.70%
+USLFO CM Ppl,4.80%,18,10,6,2.60%,6.70%,11.80%
+Gas Proj PL Proj,4.80%,24,10,9,2.60%,2.20%,20.80%
+CGO Tech Support Int,4.80%,22,10,7,2.20%,2.90%,20.00%
+PL Integrity Program,4.80%,8,10,3,0.00%,6.30%,25.00%
+PRGT Mgmt,4.80%,5,10,2,3.70%,0.00%,20.00%
+USNG Operations East,4.80%,5,10,2,7.40%,0.00%,0.00%
+USNG Proj Tech Srv,4.70%,40,10,14,2.20%,6.70%,12.50%
+CGOWR RAR,4.70%,11,10,4,1.90%,0.00%,30.00%
+COA1: Bus Ops,4.70%,33,10,12,0.60%,6.30%,21.20%
+EITS FIN & SUP CHAIN,4.70%,24,10,8,3.80%,2.50%,12.50%
+CGO Business Mgmt,4.70%,9,8,3,5.10%,0.00%,11.10%
+Comm East-Toronto,4.70%,8,10,3,2.50%,6.30%,12.50%
+EAR Well Eng&Tech,4.70%,8,10,3,2.50%,0.00%,25.00%
+ITOI EndUser Serv CA,4.70%,15,10,5,3.00%,3.80%,13.30%
+TRI ANRP,4.70%,31,10,11,5.40%,1.80%,6.50%
+NEOA1: Bus Ops,4.60%,31,10,11,4.00%,3.40%,9.70%
+EAR SCADA & Meas US,4.60%,9,10,3,2.50%,6.30%,11.10%
+Defiance Area,4.60%,31,10,11,2.70%,4.80%,12.90%
+Facility Int Eng,4.60%,17,10,6,6.00%,0.00%,6.30%
+CGO PI PM,4.50%,3,8,1,0.00%,0.00%,33.30%
+IS MX IT Services,4.50%,4,7,1,7.10%,0.00%,0.00%
+Prj Syst Maint& Imp,4.50%,11,10,4,5.50%,0.00%,9.10%
+SCADA IT Services CA,4.50%,3,8,1,0.00%,0.00%,33.30%
+SCS Logistics &Fleet,4.50%,11,9,3,4.90%,0.00%,11.10%
+Gas Proj MXExpatProj,4.50%,14,10,5,5.70%,3.70%,0.00%
+CPO Construct West,4.50%,18,10,6,4.90%,2.90%,5.60%
+EOA1: Bus Ops,4.50%,44,10,15,2.90%,2.40%,16.30%
+Lit & Empl Law CA,4.50%,9,10,3,2.30%,0.00%,22.20%
+Woolfolk Area,4.50%,25,10,9,0.80%,4.00%,24.00%
+Corporate Complia MX,4.40%,6,10,2,6.90%,0.00%,0.00%
+USNG ST Marketing,4.40%,6,10,2,0.00%,0.00%,33.30%
+Training &Develop US,4.40%,14,10,5,2.80%,7.10%,7.10%
+ELIR ENV ENTERPRISE,4.30%,4,8,1,7.10%,0.00%,0.00%
+Legal Operations CA,4.30%,3,9,1,7.10%,0.00%,0.00%
+MX Office Facilities,4.30%,3,9,1,0.00%,0.00%,33.30%
+SC Liquids Projects,4.30%,3,8,1,7.10%,0.00%,0.00%
+SCP Mod/Contr & Plan,4.30%,6,10,2,3.60%,0.00%,16.70%
+USLFO GT Ppl,4.30%,21,10,7,4.90%,0.00%,9.50%
+NEOA2: Bus Ops,4.30%,27,10,9,6.10%,0.00%,3.70%
+KXL CAD Dev Project,4.30%,96,10,26,4.00%,2.20%,8.90%
+Construction Mgmt,4.30%,170,10,47,2.50%,4.40%,11.70%
+USTS Bus Opt & Intg,4.30%,25,10,8,2.60%,6.40%,8.00%
+USTS Eng Serv,4.30%,15,10,5,0.00%,10.70%,13.30%
+IS END USER COMP US,4.30%,6,9,2,3.20%,0.00%,16.70%
+Safety HSS Cross US,4.30%,6,8,2,0.00%,8.30%,16.70%
+USNG Trans Acc&Contr,4.20%,36,10,12,3.40%,5.60%,5.60%
+CGORMR FHZ8 People,4.20%,21,10,7,1.90%,2.40%,19.00%
+CrossAlta OP 100%,4.20%,10,10,3,2.40%,0.00%,20.00%
+EITS APP & REPORT CA,4.20%,9,10,3,2.20%,0.00%,25.00%
+Midstream I&E Ops,4.20%,6,10,2,6.70%,0.00%,0.00%
+PI Threat Mgmt US,4.20%,12,10,3,6.70%,0.00%,0.00%
+CGO TS ROW Mgmt&Proj,4.10%,20,10,6,2.20%,2.80%,15.00%
+USPL Property Tax,4.10%,6,10,2,0.00%,8.30%,16.70%
+BUIT USNG WEST,4.10%,24,10,7,3.80%,0.00%,12.50%
+PI Proj Mgmt NE AB,4.10%,10,10,3,0.00%,10.00%,11.10%
+Security Srvcs MX,4.00%,20,10,6,2.20%,2.80%,15.00%
+USNG Con Serv West,4.00%,60,10,18,3.30%,2.60%,10.00%
+CGO Central Pipelin,4.00%,29,10,9,2.90%,1.70%,13.80%
+Liquids US Proj US,4.00%,12,10,3,2.20%,5.60%,9.10%
+SCADA IT SERVICES CA,4.00%,4,7,1,0.00%,0.00%,25.00%
+USTS Class & HCA CA,4.00%,8,10,2,3.20%,0.00%,14.30%
+USTS Reliability Mgt,4.00%,3,9,1,6.30%,0.00%,0.00%
+IS BUIT Proj Del US,4.00%,21,8,4,1.60%,15.80%,0.00%
+GIS Services,3.90%,11,10,3,4.30%,0.00%,9.10%
+Safety Corporate,3.90%,10,10,3,4.30%,0.00%,10.00%
+Liq Leak Detection,3.90%,13,10,4,3.10%,0.00%,15.40%
+SaginawValley-GLGTPe,3.90%,13,10,4,3.20%,3.80%,7.70%
+SC Strategic Source,3.90%,8,7,2,3.20%,0.00%,12.50%
+NEOA6: Bus Ops,3.90%,30,10,9,2.10%,0.00%,20.70%
+Comm&Const Exelle CA,3.90%,17,10,5,3.80%,0.00%,12.50%
+Reclam & Abandonment,3.90%,10,10,3,4.10%,0.00%,10.00%
+USNG Property Acctg,3.90%,10,10,3,4.30%,0.00%,10.00%
+CGOCR Region RAR,3.90%,14,10,4,1.50%,8.30%,7.10%
+USTS Integrity&Oper,3.90%,25,10,6,2.90%,7.10%,4.00%
+CGO Project Services,3.90%,23,10,7,3.50%,4.50%,4.30%
+COA3: Bus Ops,3.80%,28,10,8,3.10%,7.70%,0.00%
+FI&PS Director,3.80%,3,10,1,5.90%,0.00%,0.00%
+Financial Assurance,3.80%,3,10,1,0.00%,0.00%,33.30%
+IT Ntwk Proj Del CA,3.80%,8,9,2,0.00%,0.00%,28.60%
+Liq Auto & Process,3.80%,26,10,7,2.60%,0.00%,15.40%
+MM Warehouse CA NB,3.80%,3,10,1,5.90%,0.00%,0.00%
+Welding Mat NDE&C-CA,3.80%,11,10,3,2.10%,5.00%,10.00%
+Eng Standards Gov,3.80%,13,10,4,3.00%,3.80%,7.70%
+IS Cyber Sec & Ops,3.80%,29,10,6,5.80%,0.00%,0.00%
+Learn & Devt CA,3.80%,12,10,3,2.00%,5.00%,10.00%
+Project Governanc CA,3.70%,14,10,4,1.50%,7.70%,7.10%
+USTS Integr Eng Serv,3.70%,20,10,6,4.00%,2.50%,5.00%
+BL Ops-GLGT People,3.70%,7,10,2,5.90%,0.00%,0.00%
+CGOEAS Hearst,3.70%,20,10,6,2.90%,2.60%,10.00%
+Liq Ops Excellence,3.70%,11,10,3,3.90%,0.00%,10.00%
+USNG Land Admin,3.70%,7,10,2,3.00%,0.00%,14.30%
+CGORMR RAR,3.70%,15,10,4,3.00%,0.00%,13.30%
+Gas Projects Sched,3.70%,11,10,3,2.00%,0.00%,18.20%
+CA Pipe Reg Facility,3.60%,7,10,2,2.90%,7.10%,0.00%
+Liq Ops Plan & Integ,3.60%,7,10,2,5.90%,0.00%,0.00%
+CGOWR Wood Buffalo,3.60%,23,10,6,2.90%,0.00%,13.60%
+Flint Hills-ANRP,3.60%,25,10,7,1.70%,4.00%,12.00%
+CGO Wildrose GP,3.60%,20,10,5,4.50%,0.00%,5.30%
+CGOCR Agassiz,3.50%,16,10,4,5.90%,0.00%,0.00%
+BUIT SCADA EAST,3.50%,11,10,3,3.70%,5.00%,0.00%
+Liquids Projects CA,3.50%,38,10,10,2.80%,1.50%,10.50%
+Corp Aviation-Cgy,3.50%,7,10,2,2.80%,7.10%,0.00%
+Energy Acctg West,3.50%,8,10,2,2.90%,0.00%,12.50%
+EOA2: Bus Ops,3.50%,32,10,8,3.50%,3.80%,3.10%
+SC eComm Tech MDM,3.50%,8,10,2,0.00%,0.00%,25.00%
+SCS AP CA,3.50%,16,10,4,2.80%,3.80%,6.30%
+Liq PQM,3.50%,11,10,3,1.90%,0.00%,18.20%
+PI Constructn Mgmt,3.50%,153,10,36,2.30%,3.00%,9.40%
+BUIT USNG EAST,3.40%,23,10,6,0.00%,2.30%,21.70%
+Corrosion Serv USGO,3.40%,18,10,5,3.30%,2.80%,5.60%
+CYBER SEC OFFICE CA,3.40%,7,7,1,5.30%,0.00%,0.00%
+Grad Rotation,3.40%,8,10,2,2.90%,6.30%,0.00%
+Supply Chain KXL CAD,3.40%,11,10,3,3.70%,0.00%,9.10%
+CGOWR Aurora Central,3.40%,20,10,5,3.30%,0.00%,10.50%
+Ind Ctrl & Elct Eng,3.40%,30,10,7,3.80%,2.20%,3.40%
+IS SAP Delivery,3.40%,13,10,3,0.00%,0.00%,25.00%
+PI Threat Mgmt CA,3.40%,28,10,7,2.40%,0.00%,15.40%
+USTS Mntce Prog&Plan,3.40%,51,10,14,3.10%,1.00%,9.80%
+CA Pipes Cust Norm,3.40%,27,10,7,2.30%,0.00%,15.40%
+Eastern Development,3.40%,12,10,3,1.80%,0.00%,16.70%
+Liquids SE FieldProj,3.40%,17,10,4,1.40%,0.00%,17.60%
+Facilities Ser Clgry,3.30%,65,10,16,2.60%,0.90%,11.30%
+CGL PL Implement W,3.30%,8,9,2,2.80%,6.30%,0.00%
+CR&State Affairs US,3.30%,4,9,1,5.60%,0.00%,0.00%
+IT NTW &TELCOM PJ US,3.30%,4,9,1,5.30%,0.00%,0.00%
+PI Data Qual&StratCA,3.30%,17,10,4,1.40%,6.70%,5.90%
+PI Tech Managment,3.30%,4,8,1,0.00%,0.00%,25.00%
+SCCM Mat & Equip,3.30%,12,10,3,3.70%,0.00%,8.30%
+CGL PL Implement E,3.30%,20,10,5,2.10%,0.00%,15.00%
+Internal Audit CA,3.30%,15,10,4,1.30%,0.00%,20.00%
+Comm West-Supply,3.30%,8,10,2,2.60%,7.10%,0.00%
+Corp Comm & Mktg,3.30%,17,10,4,3.90%,0.00%,5.90%
+E&L ES Field - East,3.30%,8,10,2,2.70%,6.30%,0.00%
+HR Compensation,3.30%,9,10,2,4.90%,0.00%,0.00%
+Liquids Com & CA Reg,3.30%,8,10,2,2.60%,0.00%,12.50%
+USNG Acctg Central,3.30%,8,10,2,0.00%,0.00%,25.00%
+AMS CA Gas Pipe Sys,3.20%,15,10,4,1.30%,0.00%,20.00%
+CGO PI PM PR/NONT,3.20%,8,9,2,0.00%,0.00%,25.00%
+Corp Finance&Pension,3.20%,4,8,1,0.00%,0.00%,25.00%
+Gas Proj MX Houston,3.20%,4,10,1,0.00%,12.50%,0.00%
+IMG Work Center,3.20%,8,9,2,0.00%,0.00%,25.00%
+IS Corp Support Serv,3.20%,5,10,1,0.00%,0.00%,20.00%
+NEOA3: Bus Ops,3.20%,28,10,7,2.20%,3.70%,7.10%
+Op Cost Acctg,3.20%,9,10,2,0.00%,6.30%,12.50%
+USNG Controller,3.20%,5,10,1,0.00%,0.00%,20.00%
+CEL Celestine Area,3.20%,29,10,7,2.20%,0.00%,14.30%
+MX NG Bus Devel,3.20%,9,9,2,0.00%,0.00%,22.20%
+CAEO Western Eng,3.20%,13,10,3,0.00%,8.30%,7.70%
+Liq Mech Civil & Rel,3.10%,13,10,3,0.00%,0.00%,23.10%
+SCP US Gas Strategy,3.10%,4,9,1,0.00%,0.00%,25.00%
+CGO ILI Projects,3.10%,17,10,4,2.50%,3.10%,5.90%
+CGOEAS Quebec,3.10%,13,10,3,3.30%,0.00%,7.70%
+EOA3: Bus Ops,3.10%,26,10,6,1.70%,4.00%,7.70%
+SCCO CGO & PI CA,3.10%,12,10,3,1.60%,9.10%,0.00%
+AB Energy OP FO,3.10%,8,10,2,0.00%,0.00%,25.00%
+USTS Auto Control W,3.10%,25,10,6,1.60%,6.30%,4.00%
+ELIR IR ENTERPRISE,3.00%,5,9,1,5.00%,0.00%,0.00%
+Property Taxation,3.00%,4,10,1,4.80%,0.00%,0.00%
+Risk -  CA & MX Gas,3.00%,9,10,2,0.00%,5.60%,12.50%
+Sardis Area,3.00%,26,10,6,2.50%,2.00%,7.70%
+SCCM Corp & Consult,3.00%,13,10,3,3.10%,0.00%,7.70%
+CGOEAS RAR,3.00%,18,10,4,2.30%,0.00%,11.10%
+CGORMR Big Sky,3.00%,22,10,5,1.00%,4.50%,9.10%
+CA Pipe Rates West,2.90%,6,10,1,0.00%,0.00%,16.70%
+US Aerial Patrol,2.90%,21,10,5,3.70%,0.00%,4.80%
+USTS Integ Progr Ser,2.90%,14,10,3,1.60%,4.20%,7.10%
+IS BUIT Proj Del Com,2.90%,15,10,3,3.10%,4.20%,0.00%
+Ctrparty Risk Mgmt,2.90%,9,10,2,4.50%,0.00%,0.00%
+Reg Compliance CA,2.90%,9,10,2,4.80%,0.00%,0.00%
+ELIR CA Land Admin,2.90%,14,10,3,1.60%,0.00%,14.30%
+Corporate Accounting,2.90%,9,10,2,0.00%,0.00%,22.20%
+Liquids Marketing,2.90%,9,10,2,0.00%,5.60%,11.10%
+SCE Global Cont Mgmt,2.90%,7,8,1,4.50%,0.00%,0.00%
+USNG Gas Control W,2.80%,62,10,14,1.90%,0.80%,11.30%
+BUIT SCADA WEST,2.80%,9,10,2,0.00%,0.00%,22.20%
+CA Pipe Law CA,2.80%,14,10,3,3.00%,0.00%,7.10%
+SEOA1: Bus Ops,2.80%,23,10,5,3.60%,0.00%,4.30%
+Liq Major Proj BD CA,2.80%,5,10,1,4.30%,0.00%,0.00%
+SCE Strat&Func Excel,2.80%,5,9,1,4.30%,0.00%,0.00%
+DTO AUT INV  DVRY CA,2.70%,20,10,4,0.00%,2.80%,15.80%
+East Region Mgmt Ops,2.70%,14,10,3,1.40%,3.80%,7.10%
+CLFO Cypress Ppl,2.70%,24,10,5,2.60%,2.10%,4.30%
+Executive Leadership,2.70%,9,10,2,0.00%,5.60%,11.10%
+USTS ROW Maintenance,2.70%,9,10,2,2.10%,5.60%,0.00%
+CGO Eastern Pipelin,2.70%,23,10,5,2.60%,0.00%,8.70%
+Comm East-Calgary,2.60%,5,10,1,4.30%,0.00%,0.00%
+CPO Business Opti,2.60%,10,10,2,0.00%,0.00%,20.00%
+NGTL 2021 Dev Proj,2.60%,11,10,2,4.20%,0.00%,0.00%
+USNG In-Line Inspect,2.60%,5,10,1,4.30%,0.00%,0.00%
+Gas Proj Compression,2.60%,32,10,6,2.20%,0.00%,9.70%
+Safety Emerge MgmtUS,2.60%,5,10,1,4.20%,0.00%,0.00%
+CGOEAS MNIAG,2.50%,17,10,3,2.70%,3.60%,0.00%
+CGO Tech Support Ops,2.50%,23,10,4,3.10%,0.00%,4.30%
+CPO CentralCorrosion,2.50%,61,10,11,1.80%,2.80%,5.00%
+Energy Comm Op East,2.50%,5,10,1,0.00%,11.10%,0.00%
+Exec Admin-ShareServ,2.50%,5,10,1,0.00%,10.00%,0.00%
+NGTL 2022 Dev Proj,2.50%,5,10,1,0.00%,10.00%,0.00%
+IS EITS,2.50%,73,10,11,1.80%,1.00%,7.60%
+USTS Auto/Contrl E,2.50%,21,10,4,1.00%,4.80%,4.80%
+HR Compliance & Prog,2.40%,5,9,1,3.80%,0.00%,0.00%
+Pipe Int Data Eng CA,2.40%,5,10,1,3.80%,0.00%,0.00%
+USTS Tech Facilitat,2.40%,10,10,2,1.90%,5.00%,0.00%
+USTS Integri TM East,2.40%,10,10,2,1.90%,5.00%,0.00%
+ISBO NTWK PRJ DEL CA,2.40%,7,8,1,0.00%,0.00%,14.30%
+Liquids US Ops & Reg,2.40%,5,10,1,3.70%,0.00%,0.00%
+Strat & Port Mngmt,2.40%,11,10,2,3.70%,0.00%,0.00%
+Liq System Control,2.30%,38,10,7,1.10%,1.30%,10.50%
+USNG Env Law,2.30%,6,10,1,3.60%,0.00%,0.00%
+EO Halton Hills,2.30%,46,10,7,1.00%,3.20%,6.50%
+CGO ConstructionEast,2.30%,30,10,5,0.70%,3.80%,6.70%
+Becancour,2.30%,8,10,1,0.00%,0.00%,12.50%
+IT Infra  Ops Center,2.30%,13,10,2,0.00%,0.00%,16.70%
+Safety Corp Secur US,2.30%,6,9,1,0.00%,0.00%,16.70%
+CA Pipes Comm OpPlan,2.20%,22,10,4,1.80%,2.30%,4.50%
+Financial Reporting,2.20%,13,10,2,0.00%,0.00%,15.40%
+GIS Services CA,2.20%,12,10,2,0.00%,4.50%,8.30%
+None,2.20%,74,10,9,1.60%,4.20%,2.70%
+Liq Comm Accounts,2.20%,6,9,1,3.40%,0.00%,0.00%
+Tech Info Mgmt CA,2.20%,18,10,3,1.20%,2.90%,5.60%
+USNG Exec Admin,2.20%,13,10,2,0.00%,5.30%,7.70%
+CGO Rocky Mtn Region,2.20%,6,10,1,3.60%,0.00%,0.00%
+Investor Relations,2.20%,6,10,1,3.60%,0.00%,0.00%
+Liquids BD CAD,2.20%,6,10,1,0.00%,0.00%,16.70%
+Contract Risk,2.10%,6,10,1,3.40%,0.00%,0.00%
+PI Proj Mgmt SON &QC,2.10%,12,10,2,3.40%,0.00%,0.00%
+USNG US Remediation,2.10%,6,10,1,3.40%,0.00%,0.00%
+Land - US Gas - Proj,2.10%,54,10,8,0.90%,3.90%,3.70%
+USNG Enviro P&P–West,2.10%,6,10,1,0.00%,0.00%,16.70%
+CGOCR Heartland,2.10%,20,10,3,0.00%,2.80%,11.10%
+US Commodity Tax,2.00%,6,10,1,0.00%,0.00%,16.70%
+USNG Accounting East,2.00%,6,10,1,3.20%,0.00%,0.00%
+USTS Compress West,2.00%,19,10,3,1.10%,2.80%,5.30%
+Inter Affi & Trainin,2.00%,8,10,1,0.00%,0.00%,14.30%
+Pennant Processing,2.00%,13,10,2,0.00%,3.80%,7.70%
+CA Pipe Rates East,2.00%,6,10,1,3.00%,0.00%,0.00%
+HR Talent Acq US,2.00%,7,8,1,0.00%,0.00%,14.30%
+Liq Cost & Cap Acctg,2.00%,7,10,1,3.10%,0.00%,0.00%
+IS BUIT Proj Del CA,1.90%,31,10,4,2.30%,2.10%,0.00%
+PI ThreatMgmt-US GAS,1.90%,15,8,2,1.60%,0.00%,6.70%
+CGOWR Mountainview,1.90%,22,10,3,0.00%,2.40%,9.10%
+Comm West-Markets,1.90%,7,8,1,3.10%,0.00%,0.00%
+Liq Cross Border US,1.90%,7,8,1,0.00%,7.10%,0.00%
+NSIT CORE NET SRV CA,1.80%,60,10,7,0.90%,2.30%,5.00%
+Edson Gas Storage,1.80%,7,10,1,0.00%,0.00%,14.30%
+HR Talent Programs,1.80%,8,10,1,0.00%,0.00%,12.50%
+Energy Law CA,1.80%,7,10,1,0.00%,7.10%,0.00%
+Gas Proj Governance,1.80%,7,10,1,2.90%,0.00%,0.00%
+Intl Finance Centres,1.80%,7,10,1,2.90%,0.00%,0.00%
+RTS & Apps Central,1.70%,7,10,1,0.00%,0.00%,14.30%
+Mechanical Equipment,1.70%,16,8,2,0.00%,0.00%,12.50%
+SCCO Corp Serv,1.70%,9,10,1,0.00%,0.00%,12.50%
+Portfolio Ops & Mrkt,1.70%,18,10,2,0.00%,3.30%,6.30%
+Risk - LIQ & US Gas,1.70%,8,9,1,0.00%,0.00%,12.50%
+SCADA IT SERVICES US,1.70%,9,9,1,0.00%,0.00%,12.50%
+CGOCR NWOntario,1.60%,16,10,2,1.30%,0.00%,6.30%
+USLFO GL Ppl,1.60%,18,10,2,2.60%,0.00%,0.00%
+COE Management,1.60%,8,10,1,2.50%,0.00%,0.00%
+HR MX,1.60%,9,10,1,0.00%,0.00%,11.10%
+IS BUSINESS OFFICE,1.60%,9,10,1,2.60%,0.00%,0.00%
+Op Mgmt System,1.60%,9,10,1,2.50%,0.00%,0.00%
+Pension Asset Mgmt,1.60%,8,10,1,0.00%,0.00%,12.50%
+CGL Stakeholder Rel,1.60%,22,10,2,0.00%,0.00%,10.00%
+Corp Evaluations,1.50%,9,10,1,2.60%,0.00%,0.00%
+Gas Storage Op-Unreg,1.50%,8,10,1,0.00%,0.00%,12.50%
+NSIT FIELD&TELCO US,1.50%,33,10,4,1.80%,0.00%,3.00%
+DTO CLOUD OPS INF CA,1.50%,17,10,2,1.20%,0.00%,5.90%
+MGO Operations Serv,1.50%,8,10,1,0.00%,0.00%,12.50%
+CGOEAS Rideau,1.40%,18,10,2,1.10%,3.10%,0.00%
+USNG Rates&Tariffs,1.40%,19,10,2,0.00%,3.10%,5.30%
+USTS Meas Engin East,1.40%,17,10,2,0.00%,2.90%,5.90%
+Acctg Bus Support,1.40%,9,10,1,0.00%,0.00%,11.10%
+Internal Comm,1.40%,10,10,1,0.00%,0.00%,10.00%
+CA InternalAudit&SOX,1.40%,12,10,1,0.00%,7.70%,0.00%
+HR Pension&Benefits,1.40%,9,10,1,0.00%,0.00%,11.10%
+SC Proc Learning Gov,1.40%,13,9,1,2.10%,0.00%,0.00%
+Taxation,1.40%,11,9,1,2.10%,0.00%,0.00%
+DIGITAL TRANS OFF,1.30%,35,10,3,1.40%,2.10%,0.00%
+ITOI EndUser Serv US,1.30%,10,10,1,2.10%,0.00%,0.00%
+Liq Rate Cont Analys,1.30%,10,10,1,0.00%,0.00%,11.10%
+IS App & Report CA,1.20%,10,10,1,1.90%,0.00%,0.00%
+Market Serv & Compl,1.20%,22,10,2,1.00%,0.00%,4.50%
+Safety Program Gov,1.20%,11,10,1,0.00%,0.00%,10.00%
+EOA5: Bus Ops,1.20%,11,10,1,1.90%,0.00%,0.00%
+Prj Service Est CA,1.20%,11,10,1,1.90%,0.00%,0.00%
+CGOWR Mackenzie,1.20%,24,10,2,0.90%,0.00%,4.50%
+Liq Pipe Integrity,1.10%,12,10,1,0.00%,0.00%,8.30%
+SCCM Lifecycle Mgmt,1.10%,13,10,1,1.80%,0.00%,0.00%
+CGORMR - West Cntry,1.10%,26,10,2,0.00%,2.20%,4.20%
+US SC Ops Procuremnt,1.10%,13,10,1,0.00%,0.00%,7.70%
+RTS & SCADA Eng,1.00%,73,10,5,0.70%,1.90%,1.40%
+CGO  Rocky Pipeline,1.00%,25,10,2,0.80%,0.00%,4.00%
+HR Master Data Mgmt,1.00%,13,10,1,0.00%,0.00%,7.70%
+CPO Gas Quality,1.00%,13,10,1,1.60%,0.00%,0.00%
+Tech Info Mgmt US,1.00%,18,10,1,1.70%,0.00%,0.00%
+ML Planning West,0.90%,14,10,1,1.50%,0.00%,0.00%
+MGO EOMS Union,0.80%,22,10,1,0.00%,0.00%,4.50%
+ISBO BUS GOV OFF,0.80%,55,10,3,0.40%,1.20%,1.90%
+Law&Corp Secretarial,0.80%,17,10,1,0.00%,0.00%,6.30%
+Business Planning,0.80%,17,10,1,0.00%,0.00%,6.30%
+-,0.80%,612,0,32,0.50%,0.70%,2.00%
+Measurement Projects,0.60%,20,10,1,0.00%,2.50%,0.00%
+CGO Measuremt Eng CA,0.50%,27,10,1,0.00%,2.60%,0.00%
+AMS Energy CA,0.00%,1,7,0,0.00%,0.00%,0.00%
+AMS Liquids Pipe,0.00%,3,7,0,0.00%,0.00%,0.00%
+Aviation - CPG,0.00%,1,8,0,0.00%,0.00%,0.00%
+BUIT AMS USNG SHARED,0.00%,1,9,0,0.00%,0.00%,0.00%
+BUIT CA & IS Stratgy,0.00%,1,8,0,0.00%,0.00%,0.00%
+BUIT CA GAS PIPE SYS,0.00%,4,8,0,0.00%,0.00%,0.00%
+BUIT USNG SHARED,0.00%,5,10,0,0.00%,0.00%,0.00%
+CA Market Analysis,0.00%,7,10,0,0.00%,0.00%,0.00%
+CA Pipe Comm East,0.00%,4,10,0,0.00%,0.00%,0.00%
+CA Pipe Reg Affairs,0.00%,3,10,0,0.00%,0.00%,0.00%
+CA Pipe Reg Project,0.00%,9,10,0,0.00%,0.00%,0.00%
+CA Pipeline Acctg E,0.00%,8,10,0,0.00%,0.00%,0.00%
+CA Pipeline Acctg W,0.00%,5,8,0,0.00%,0.00%,0.00%
+CA Pipes Tolls,0.00%,6,10,0,0.00%,0.00%,0.00%
+CAEO Cost Control,0.00%,5,8,0,0.00%,0.00%,0.00%
+CDN Power Fields Op,0.00%,4,9,0,0.00%,0.00%,0.00%
+CGL H&S & Environmnt,0.00%,3,10,0,0.00%,0.00%,0.00%
+CGO Methane Emission,0.00%,2,8,0,0.00%,0.00%,0.00%
+CGO Train Dev Cul&FE,0.00%,5,8,0,0.00%,0.00%,0.00%
+CGO Wildrose Region,0.00%,6,8,0,0.00%,0.00%,0.00%
+CLFO Enviro Serv Ppl,0.00%,1,9,0,0.00%,0.00%,0.00%
+Comm&Const Exelle US,0.00%,5,10,0,0.00%,0.00%,0.00%
+Communic CA Liquids,0.00%,2,10,0,0.00%,0.00%,0.00%
+Const & Comm Exc Dir,0.00%,4,10,0,0.00%,0.00%,0.00%
+Controller,0.00%,3,10,0,0.00%,0.00%,0.00%
+Corp Aviation-Houstn,0.00%,2,7,0,0.00%,0.00%,0.00%
+Corp Comp & IntAudit,0.00%,5,8,0,0.00%,0.00%,0.00%
+Corp Development,0.00%,1,9,0,0.00%,0.00%,0.00%
+Corp Plan & Eval,0.00%,8,10,0,0.00%,0.00%,0.00%
+Corp Secretarial US,0.00%,5,9,0,0.00%,0.00%,0.00%
+Corp&Gen Counsel,0.00%,1,8,0,0.00%,0.00%,0.00%
+Corporate Finance,0.00%,2,9,0,0.00%,0.00%,0.00%
+Cost Management,0.00%,2,7,0,0.00%,0.00%,0.00%
+Counterparty Risk,0.00%,2,8,0,0.00%,0.00%,0.00%
+Counterparty Rptng,0.00%,2,8,0,0.00%,0.00%,0.00%
+CPO Management,0.00%,1,9,0,0.00%,0.00%,0.00%
+CPO Tech Serv Mgmt,0.00%,2,9,0,0.00%,0.00%,0.00%
+CYBER SEC OFFICE US,0.00%,2,8,0,0.00%,0.00%,0.00%
+DTO AUT INV  DVRY US,0.00%,1,8,0,0.00%,0.00%,0.00%
+DTO COLLA PROD SERV,0.00%,11,10,0,0.00%,0.00%,0.00%
+DTO ENT DGTL PRC CA,0.00%,1,9,0,0.00%,0.00%,0.00%
+DTO ENT DGTL PRC US,0.00%,3,8,0,0.00%,0.00%,0.00%
+EAR Storage Res Eng,0.00%,2,9,0,0.00%,0.00%,0.00%
+ECM VP,0.00%,3,9,0,0.00%,0.00%,0.00%
+EITS CONS &MAIN SERV,0.00%,10,10,0,0.00%,0.00%,0.00%
+ELIR LAND ENTERPRISE,0.00%,5,10,0,0.00%,0.00%,0.00%
+ELIR LAND US LIQ OPS,0.00%,2,9,0,0.00%,0.00%,0.00%
+Energy Comm Op West,0.00%,2,8,0,0.00%,0.00%,0.00%
+Energy Dev Tech Serv,0.00%,2,9,0,0.00%,0.00%,0.00%
+Energy Portfolio Opt,0.00%,7,4,0,0.00%,0.00%,0.00%
+Energy S&A,0.00%,4,10,0,0.00%,0.00%,0.00%
+Energy Strat & Dev,0.00%,6,10,0,0.00%,0.00%,0.00%
+Eng Stds Director,0.00%,2,9,0,0.00%,0.00%,0.00%
+Enrg Joint Ventures,0.00%,6,10,0,0.00%,0.00%,0.00%
+Env - CA Remediation,0.00%,5,9,0,0.00%,0.00%,0.00%
+Expat - O&E,0.00%,3,10,0,0.00%,0.00%,0.00%
+Fed Gov Relations US,0.00%,4,9,0,0.00%,0.00%,0.00%
+Financial Ser CA Gas,0.00%,5,8,0,0.00%,0.00%,0.00%
+Gas Proj Dev CA,0.00%,1,7,0,0.00%,0.00%,0.00%
+Gas Proj Implem CA,0.00%,3,10,0,0.00%,0.00%,0.00%
+Gas Proj Management,0.00%,2,8,0,0.00%,0.00%,0.00%
+Gas Proj MX Expat CA,0.00%,2,9,0,0.00%,0.00%,0.00%
+Gas Proj Tech Plan,0.00%,13,10,0,0.00%,0.00%,0.00%
+Hardy: Business Ops,0.00%,4,8,0,0.00%,0.00%,0.00%
+HR Global Mobility,0.00%,3,9,0,0.00%,0.00%,0.00%
+Insurance Risk,0.00%,7,10,0,0.00%,0.00%,0.00%
+Internal Audit US,0.00%,5,8,0,0.00%,0.00%,0.00%
+IS App & Report US,0.00%,1,9,0,0.00%,0.00%,0.00%
+IS MANAGEMENT,0.00%,2,9,0,0.00%,0.00%,0.00%
+IS PI & GIS Serv US,0.00%,1,8,0,0.00%,0.00%,0.00%
+IS SP & Doc Services,0.00%,4,10,0,0.00%,0.00%,0.00%
+ISBO NTWK PRJ DEL US,0.00%,4,5,0,0.00%,0.00%,0.00%
+IT Infra Ops Ctr US,0.00%,3,9,0,0.00%,0.00%,0.00%
+ITOI Cloud Servce CA,0.00%,2,8,0,0.00%,0.00%,0.00%
+ITOI Core Net Srv CA,0.00%,2,10,0,0.00%,0.00%,0.00%
+ITOI Core Net Srv US,0.00%,2,8,0,0.00%,0.00%,0.00%
+ITOI Data Ops CA,0.00%,1,9,0,0.00%,0.00%,0.00%
+ITOI Field&Telco CA,0.00%,1,9,0,0.00%,0.00%,0.00%
+ITOI Field&Telco US,0.00%,2,7,0,0.00%,0.00%,0.00%
+ITOI Ricoh US,0.00%,1,7,0,0.00%,0.00%,0.00%
+Liq Cap Optimization,0.00%,13,10,0,0.00%,0.00%,0.00%
+Liq SE Management,0.00%,1,8,0,0.00%,0.00%,0.00%
+Liq SE PipeIntegrity,0.00%,1,7,0,0.00%,0.00%,0.00%
+Liquids Commercial,0.00%,2,7,0,0.00%,0.00%,0.00%
+Liquids DSS & LD US,0.00%,2,8,0,0.00%,0.00%,0.00%
+Liquids Fncl Report,0.00%,7,10,0,0.00%,0.00%,0.00%
+Liquids Markets&Sup,0.00%,6,10,0,0.00%,0.00%,0.00%
+Liquids System Opers,0.00%,3,10,0,0.00%,0.00%,0.00%
+Liquids US Proj CA,0.00%,1,7,0,0.00%,0.00%,0.00%
+Mexico Comm&BD Mgmt,0.00%,2,9,0,0.00%,0.00%,0.00%
+MGO Mex City Fld Ops,0.00%,2,9,0,0.00%,0.00%,0.00%
+MGO Toluca Reg Offic,0.00%,1,8,0,0.00%,0.00%,0.00%
+Mid America Rgn Mgmt,0.00%,3,10,0,0.00%,0.00%,0.00%
+Mkt Risk Ana&Rep,0.00%,3,9,0,0.00%,0.00%,0.00%
+ML Planning East,0.00%,7,10,0,0.00%,0.00%,0.00%
+MM Warehouse CA WP,0.00%,3,9,0,0.00%,0.00%,0.00%
+MX NG Marketing,0.00%,4,10,0,0.00%,0.00%,0.00%
+NGP Law Nat Gas CA,0.00%,2,10,0,0.00%,0.00%,0.00%
+Op Gov & Services,0.00%,3,10,0,0.00%,0.00%,0.00%
+Pennant NGL,0.00%,1,7,0,0.00%,0.00%,0.00%
+Pennant Residue,0.00%,1,8,0,0.00%,0.00%,0.00%
+PI Construction Serv,0.00%,2,8,0,0.00%,0.00%,0.00%
+PI Tech Ctr Director,0.00%,5,10,0,0.00%,0.00%,0.00%
+PNGTS Bus Ops,0.00%,4,8,0,0.00%,0.00%,0.00%
+Proj Service Est US,0.00%,7,8,0,0.00%,0.00%,0.00%
+Project Services,0.00%,2,9,0,0.00%,0.00%,0.00%
+SC eComm Tech MDM US,0.00%,2,9,0,0.00%,0.00%,0.00%
+SC Ops US,0.00%,3,9,0,0.00%,0.00%,0.00%
+SCP Liquids Proj CA,0.00%,1,3,0,0.00%,0.00%,0.00%
+SQ&C Management,0.00%,2,8,0,0.00%,0.00%,0.00%
+Strategy & Corp Dev,0.00%,2,10,0,0.00%,0.00%,0.00%
+Strategy Collab&Coor,0.00%,2,7,0,0.00%,0.00%,0.00%
+Supply Chain KXL US,0.00%,2,9,0,0.00%,0.00%,0.00%
+Supply Chain Mgmt,0.00%,2,9,0,0.00%,0.00%,0.00%
+TC Pipe LP Pricing,0.00%,6,10,0,0.00%,0.00%,0.00%
+Technical Services M,0.00%,1,9,0,0.00%,0.00%,0.00%
+US Ctrpty Risk,0.00%,2,10,0,0.00%,0.00%,0.00%
+US Gas Communication,0.00%,3,8,0,0.00%,0.00%,0.00%
+US Liquids Marketing,0.00%,2,8,0,0.00%,0.00%,0.00%
+US Prj Engineer 1.2,0.00%,1,8,0,0.00%,0.00%,0.00%
+USLFO Reg MGT Ppl,0.00%,6,10,0,0.00%,0.00%,0.00%
+USNG BU Optimization,0.00%,7,10,0,0.00%,0.00%,0.00%
+USNG Construct East,0.00%,1,7,0,0.00%,0.00%,0.00%
+USNG Pricing&Bus Ana,0.00%,5,8,0,0.00%,0.00%,0.00%
+USNG Proj Engineerng,0.00%,1,7,0,0.00%,0.00%,0.00%
+USNG Projects LXP,0.00%,1,7,0,0.00%,0.00%,0.00%
+USNG Strategy,0.00%,3,10,0,0.00%,0.00%,0.00%
+USNG XP Proj Clse CA,0.00%,1,8,0,0.00%,0.00%,0.00%
+USSM Midstream Comm,0.00%,1,7,0,0.00%,0.00%,0.00%
+USTS Construct East,0.00%,1,8,0,0.00%,0.00%,0.00%
+USTS Op Analys&Rprt,0.00%,9,10,0,0.00%,0.00%,0.00%
+USTS RTS& SCADA East,0.00%,27,10,0,0.00%,0.00%,0.00%
+Work Mgmt CA,0.00%,4,10,0,0.00%,0.00%,0.00%
+Work Mgmt US,0.00%,2,8,0,0.00%,0.00%,0.00%

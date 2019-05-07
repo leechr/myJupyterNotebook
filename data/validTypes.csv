@@ -1,0 +1,25 @@
+Type of Service,ID_Type of Service
+10-Yr,1
+20-Yr,2
+20-Yr A,3
+20-Yr B,4
+Permanent Diversion from Patoka,5
+Permanent Diversion from Cushing,6
+Temporary Diversion from Cushing,7
+Temporary Diversion from Patoka 20-Yr A,8
+Temporary Diversion from Patoka 20-Yr B,9
+Uncommitted,10
+Uncommitted (IJT),11
+Excess,12
+FST,13
+ST-A,14
+ST-B,15
+2B,16
+2C,17
+5,18
+6A,19
+6B,20
+7,21
+LT-A,22
+LT-B,23
+LT-C,24
